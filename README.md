@@ -9,4 +9,4 @@ In this notebook, we will try to do simple Exploratory Data Analysis (EDA) from 
 4. [Among Us Google Play Store Comments Word Cloud using Python](#) ([source](#))
 
 ## Our Team
-[Imam Bhaskara](https://www.linkedin.com/in/imam-bhaskara), [Ricky Nauvaldy Ruliputra](https://www.linkedin.com/in/rickynauvaldy/), [Rahman Firmansyah](https://www.linkedin.com/in/rahman-firmansyah-79283512b), [Cahya Putera](https://www.linkedin.com/in/cahyaputera/), [Winata Syahputera](https://www.linkedin.com/in/winata-syahputra/), [Muhamad Teo Khibran](https://www.linkedin.com/in/teokhibran/), [Arnold P](https://www.linkedin.com/in/arnold-p/
+[Imam Bhaskara](https://www.linkedin.com/in/imam-bhaskara), [Ricky Nauvaldy Ruliputra](https://www.linkedin.com/in/rickynauvaldy/), [Rahman Firmansyah](https://www.linkedin.com/in/rahman-firmansyah-79283512b), [Cahya Putera](https://www.linkedin.com/in/cahyaputera/), [Winata Syahputera](https://www.linkedin.com/in/winata-syahputra/), [Muhamad Teo Khibran](https://www.linkedin.com/in/teokhibran/), [Arnold P](https://www.linkedin.com/in/arnold-p/)
